@@ -1,1 +1,2 @@
-# polimorfisme_seSI4.
+# Moh. Mirza yusuf humaedy
+# 20220040260
